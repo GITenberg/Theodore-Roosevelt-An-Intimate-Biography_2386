@@ -1,0 +1,39 @@
+_repo: Theodore-Roosevelt-An-Intimate-Biography_2386
+creator:
+  author:
+    agent_name: Thayer, William Roscoe
+    birthdate: 1859
+    deathdate: 1923
+    gutenberg_agent_id: '887'
+    url: http://www.gutenberg.org/2009/agents/887
+description: A biography of Theodore Roosevelt (1858-1919), as an individual person
+  and as the 26th president of the United States between 1901-1909. He was a son of
+  Theodore Roosevelt and Martha Bulloch, and he married Edith Carow. The author (a
+  friend but not a political follower) felt that President Roosevelt's principal contribution
+  to the nation was in social welfare legislature, through "... beginning and carrying
+  forward the war for the reconciliation between Capital and Labor ... Does any one
+  now defend selling liquor to children ... Does any one defend sweat-shops, or the
+  manufacture of cigars under worse than unsanitary conditions? Which of the packers
+  who protested against the Meat Inspection Bill, would care to have his name made
+  public; and which of the lawyers and of the accomplices in the lobby and in Congress
+  would care to have it known that he used every means, fair and foul, to prevent
+  depriving the packers of the privilege of canning bad meat for Americans, although
+  foreigners insisted that the canned meat which they bought should be wholesome and
+  inspected? Does any American now doubt the wisdom and justice of conserving the
+  natural resources, of saving our forests and our mineral supplies, and of controlling
+  the watershed from which flows the water-supply of of entires States?"--P.ix-xi.
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2000-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2386'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E740'
+- !lcsh 'Presidents -- United States -- Biography'
+- !lcsh 'Roosevelt, Theodore, 1858-1919'
+title: 'Theodore Roosevelt: An Intimate Biography'
+url: http://www.gutenberg.org/ebooks/2386
