@@ -1,5 +1,8 @@
 _repo: Theodore-Roosevelt-An-Intimate-Biography_2386
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Thayer, William Roscoe
@@ -23,6 +26,8 @@ description: A biography of Theodore Roosevelt (1858-1919), as an individual per
   inspected? Does any American now doubt the wisdom and justice of conserving the
   natural resources, of saving our forests and our mineral supplies, and of controlling
   the watershed from which flows the water-supply of of entires States?"--P.ix-xi.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2386#Theodore-Roosevelt-An-Intimate-Biography
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2000-11-01'
 gutenberg_type: Text
