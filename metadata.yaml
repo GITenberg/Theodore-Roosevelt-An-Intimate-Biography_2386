@@ -1,5 +1,5 @@
 _repo: Theodore-Roosevelt-An-Intimate-Biography_2386
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -41,5 +41,6 @@ subjects:
 - !lcc 'E740'
 - !lcsh 'Presidents -- United States -- Biography'
 - !lcsh 'Roosevelt, Theodore, 1858-1919'
+- GITenberg
 title: 'Theodore Roosevelt: An Intimate Biography'
 url: http://www.gutenberg.org/ebooks/2386
